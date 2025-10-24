@@ -1,1 +1,1 @@
-# Zepto_Data_Analysi_Project_Using_SQL
+# Zepto_Data_Analysis_Project_Using_SQL
